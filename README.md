@@ -1,2 +1,2 @@
-# Temperature covert 
+# Temperature covertor
 
